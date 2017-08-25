@@ -15,6 +15,11 @@ class LoginViewController: UIViewController {
     @IBOutlet weak var udacityMiniImageView: UIImageView!
     @IBOutlet weak var loadingView: UIView!
     
+    
+    @IBAction func createAccount(_ sender: Any) {
+        UIApplication.shared.openURL(URL(string: "https://auth.udacity.com/sign-up?next=https%3A%2F%2Fudacity.com")!)
+    }
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         loadingView.alpha = 0

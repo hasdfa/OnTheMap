@@ -105,6 +105,9 @@
                                                 </fragment>
                                             </attributedString>
                                         </state>
+                                        <connections>
+                                            <action selector="createAccount:" destination="LSZ-KE-Bbk" eventType="touchUpInside" id="ooX-61-vnq"/>
+                                        </connections>
                                     </button>
                                 </subviews>
                                 <constraints>
