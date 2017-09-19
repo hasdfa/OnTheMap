@@ -1,7 +1,7 @@
 # OnTheMap
 Portfolio project
 
-<table>
+<table border="0">
   <tr>
     <td>
      <img src="https://lh4.googleusercontent.com/r4KpzIj9sxu76BrnnH9A02u_58BjKPguqSHcrFCUYpU8nzXoSjbMZsvOFKlM9EG5J96PMrCL-eyirBc=w2878-h1626" style="margin: 12"/>
