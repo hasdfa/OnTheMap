@@ -4,7 +4,7 @@ Portfolio project
 <table>
   <tr>
     <td>
-     <img src="https://lh3.googleusercontent.com/I721vDu3jWoY53yH05W8YjNXU9pV2pnecJPfaN4r-24FhTRm0QDgiqHXEZgHHCM61Dc-8pSBkjJMLpo=w2878-h1626" style="margin: 12"/>
+     <img src="https://lh4.googleusercontent.com/r4KpzIj9sxu76BrnnH9A02u_58BjKPguqSHcrFCUYpU8nzXoSjbMZsvOFKlM9EG5J96PMrCL-eyirBc=w2878-h1626" style="margin: 12"/>
     </td>
     <td>
     <img src="https://lh3.googleusercontent.com/sLSGLlkQWWwR3jUVOC0lKfiHEeGPzDeLkhtWSb6EXHC0drtj2yMrcFXO6HLqkjGSkDT7cSUw_oImLoA=w2878-h1626" style="margin: 12"/>
